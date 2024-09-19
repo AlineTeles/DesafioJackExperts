@@ -17,10 +17,3 @@ O que é opcional no seu desafio:
     Pipeline será considerado um diferencial;
 Documentação é obrigatória;
 
-Prazo de entrega: 27/09;
-Envie o desafio (git) e o vídeo (link) para ruan@jackexperts.com
-    usuário gitlab: ruan.oliveira
-    usuario github: ruan-oliveira
-Próxima fase:
-Iremos avaliar a partir do dia 27/09;
-Irei convidar para um bate-papo aqueles que tiverem as melhores entregas.# desafio-jackExperts# DesafioJackExperts
