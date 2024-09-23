@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: {{ include "desafiojacexperts.fullname" . }}-configmap
+  labels:
+    desafio: jackexperts
+data:
+  title: "Bem-vindo ao Jack Experts!"
